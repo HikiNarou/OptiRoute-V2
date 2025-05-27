@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 theme colors -->
+    <color name="md_theme_primary">#0061A4</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#D1E4FF</color>
+    <color name="md_theme_onPrimaryContainer">#001D36</color>
+
+    <color name="md_theme_secondary">#535F70</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#D7E3F7</color>
+    <color name="md_theme_onSecondaryContainer">#101C2B</color>
+
+    <color name="md_theme_tertiary">#6B5778</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_tertiaryContainer">#F2DAFF</color>
+    <color name="md_theme_onTertiaryContainer">#251431</color>
+
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+
+    <color name="md_theme_background">#FDFCFF</color>
+    <color name="md_theme_onBackground">#1A1C1E</color>
+    <color name="md_theme_surface">#FDFCFF</color>
+    <color name="md_theme_onSurface">#1A1C1E</color>
+    <color name="md_theme_surfaceVariant">#DFE2EB</color>
+    <color name="md_theme_onSurfaceVariant">#42474E</color>
+    <color name="md_theme_outline">#73777F</color>
+    <color name="md_theme_outlineVariant">#C2C7CF</color>
+
+    <color name="md_theme_inverseSurface">#2F3133</color>
+    <color name="md_theme_inverseOnSurface">#F1F0F4</color>
+    <color name="md_theme_inversePrimary">#9FCAFF</color>
+
+    <!-- Standard colors (for AppCompat compatibility) -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="amber_500">#FFC107</color>
+    <color name="amber_700">#FFA000</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_700">#616161</color>
+
+    <!-- Map route colors -->
+    <color name="map_route_color_1">#FF5722</color>
+    <color name="map_route_color_2">#4CAF50</color>
+    <color name="map_route_color_3">#2196F3</color>
+    <color name="map_route_color_4">#FFC107</color>
+    <color name="map_route_color_5">#9C27B0</color>
+    <color name="map_route_color_6">#E91E63</color>
+    <color name="map_route_color_7">#00BCD4</color>
+    <color name="map_route_color_8">#8BC34A</color>
+    <color name="map_route_color_9">#FF9800</color>
+    <color name="map_route_color_10">#673AB7</color>
+
+    <!-- Marker colors -->
+    <color name="map_depot_marker_color">#D32F2F</color>
+    <color name="map_customer_marker_color">#1976D2</color>
+
+    <!-- UI effect colors -->
+    <color name="shimmer_background">#DDDDDD</color>
+    <color name="shimmer_highlight">#CCCCCC</color>
+</resources>

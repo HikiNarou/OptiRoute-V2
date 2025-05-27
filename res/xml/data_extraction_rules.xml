@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Aturan ekstraksi data untuk Android's Auto Backup feature.
+    Lihat https://developer.android.com/guide/topics/data/autobackup#DefiningRules
+    untuk informasi lebih lanjut.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <!--
+            TODO: Tambahkan aturan untuk mencadangkan dan mengembalikan file dan preferensi bersama.
+            Secara default, tidak ada yang dicadangkan atau dikembalikan.
+        -->
+        <!--
+        <include domain="sharedpref" path="."/>
+        <exclude domain="sharedpref" path="device.xml"/>
+        -->
+    </cloud-backup>
+    <device-transfer>
+        <!--
+            TODO: Tambahkan aturan untuk transfer perangkat-ke-perangkat.
+            Secara default, tidak ada yang disertakan dalam transfer.
+        -->
+        <!--
+        <include domain="sharedpref" path="."/>
+        <exclude domain="sharedpref" path="device.xml"/>
+        -->
+    </device-transfer>
+</data-extraction-rules>
